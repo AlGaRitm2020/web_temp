@@ -1,0 +1,70 @@
+body {
+    font-size: 20px;
+
+    background: url('../img/12301.jpg') fixed;
+    font-family: 'Courier New', Courier, monospace;
+    color: #aaa;
+
+
+}
+
+h1 {
+  font-size: 40px;
+
+  color: brown;
+}
+#auth {
+  color: #eee;
+}
+
+.my_photo{
+  z-index: 288;
+  width: 100%;
+  height: 380px;
+  background: url('../img/arch-logo2.png') ;
+    background-repeat:no-repeat;
+   background-size:cover;
+}
+.my_photo_label{
+  font-size: 20px;
+  color: brown;
+  text-align: center;
+
+}
+.link::hover {
+  color: brown;
+  text-align: center;
+}
+.container {
+  margin-top: 30px;
+}
+
+.nav_text {
+  color: #eeeeee; }
+
+  /*
+#myButton .myButton{
+  font-size: 30px;
+  border: None;
+  border-radius: 20px;
+  color: #eee;
+  background-color: brown;
+  margin-bottom: 30px;
+}
+*/
+.btn_red {
+ 
+    font-size: 30px;
+    border: None;
+    border-radius: 20px;
+    color: #eee;
+    background-color: brown;
+    margin-bottom: 30px;
+
+}
+
+input {margin-bottom: 10px;}
+
+.username {
+  color:#eee;
+}
